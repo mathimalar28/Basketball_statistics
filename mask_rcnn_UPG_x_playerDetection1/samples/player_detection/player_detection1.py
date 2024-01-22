@@ -17,6 +17,7 @@ import time
 
 from utility.player_utility import *
 
+
 # Root directory of the project
 ROOT_DIR = os.path.abspath("../../")
 
